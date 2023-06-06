@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.im{
+    width: 5vw;
+}
+.name{
+    display: inline-block;
+    position: relative;
+    bottom: 58px;
+    left: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.photo{
+    width: 60vh;
+    position: relative;
+    left: 40vh;
+    top:15vh;
+}
+.mail{
+    position: relative;
+    left: 20vh;
+}
+.hi{
+    background-color: whitesmoke;
+    width: 70vw;
+    height: 100vh;
+
+}
+.n{
+    position: relative;
+    left: 75vw;
+    bottom: 80.7vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p{
+    position: relative;
+    left: 75vw;
+    bottom: 80vh;
+    font-size: 1.7vh;
+    display: inline-block;
+}
+.o{
+    position: relative;
+    left: 78.7vw;
+    bottom: 82vh;
+    font-size: 1.7vh;
+    color: red;
+}
+.ex{
+    position: relative;
+    left: 75vw;
+    bottom: 79vh;
+    width: 20vw;
+    height: 9vh;
+    border: 1px solid pink;
+    background-color: magenta;
+    color: white;
+    border-radius: 1vh;
+}
+.i{
+    position: relative;
+    top: 3vh;
+}
+.q{
+ display: inline;
+ position: relative;
+ left: 2vw;
+ bottom: 2vh;
+ padding: 2px;
+}
+.box{
+    position: relative;
+    left: 75vw;
+    bottom: 79vh;
+    
+}
+.box2{
+    position: relative;
+    left: 75vw;
+    bottom: 79vh;
+}
+.bx{
+    width: 20vw;
+    height: 7vh;
+    margin: 2px 8px;
+    position: relative;
+    right: 0.5vw;
+    bottom: 2vh;
+
+}
+.bxx{
+    width: 20vw;
+    height: 7vh;
+    margin: 7px 8px;
+    position: relative;
+    right: 0.5vw;
+    bottom: 2vh;
+}
+.box3{
+    position: relative;
+    left: 87vw;
+    bottom: 79vh;
+    filter: brightness(10%);
+    width: 10vw;
+}
+.log{
+    position: relative;
+    left: 75vw;
+    bottom: 79vh;
+    width: 20vw;
+    height: 7vh;
+    border: 1px solid white;
+    background-color: lightslategrey;
+    color: white;
+    border-radius: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box4{
+    position: relative;
+    left: 84.5vw;
+    bottom: 79vh;
+    opacity: 1000;
+}
+.box5{
+    position: relative;
+    left: 82vw;
+    bottom: 79vh;
+}
+.box6{
+    position: relative;
+    left: 82.5vw;
+    bottom: 79vh;
+}
+.box7{
+    position: relative;
+    left: 83vw;
+    bottom: 79vh;
+}
+.hhh{
+    position: relative;
+    left: 2vh;
+}
